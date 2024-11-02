@@ -22,5 +22,5 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/brandonbarton'}
 
 contacts:
-- {name: 'Brandon Barton', title: 'Graduate Research Assistant', department: 'Applied Mathematics and Statistics', institution: 'Colorado School of Mines', institution_address: '1500 Illinois St, Golden, CO, 80401, USA', email: 'brandonbarton@mines.edu', image: 'assets/img/contact.jpg'}
+- {name: 'Brandon Barton', title: 'Doctorate student', department: 'Institute for Theoretical Physics', institution: 'ETH Zürich', institution_address: 'HIT, Wolfgang-Pauli-Str. 27, 8093 Zürich', email: 'bbarton@ethz.ch', image: 'assets/img/contact.jpg'}
 # - {name: 'Brandon Barton', title: 'Graduate Research Assistant', department: 'Applied Mathematics and Statistics', institution: 'Colorado School of Mines', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}

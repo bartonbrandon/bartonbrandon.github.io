@@ -1,7 +1,9 @@
 featured:
+- {name: 'Iterative quantum optimization of spin glass problems with rapidly oscillating transverse fields. **B Barton**, J Sagal, S Feeney, G Grattan, P Patnaik, V Oganesyan, LD Carr, E Kapit', url: 'https://arxiv.org/abs/2408.06571'}
 - {name: 'On the approximability of random-hypergraph MAX-3-XORSAT problems with quantum algorithms. E Kapit, **B Barton**, S Feeney, G Grattan, P Patnaik, J Sagal, LD Carr, V Oganesyan', url: 'https://arxiv.org/abs/2312.06104'}
 - {name: 'Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model. G Grattan, **B Barton**, S Feeney, G Mossi, P Patnaik, J Sagal, LD Carr, V Oganesyan, E Kapit', url: 'https://arxiv.org/abs/2311.17814'}
 
 index:
+- {name: 'Iterative quantum optimization of spin glass problems with rapidly oscillating transverse fields. **B Barton**, J Sagal, S Feeney, G Grattan, P Patnaik, V Oganesyan, LD Carr, E Kapit', url: 'https://arxiv.org/abs/2408.06571'}
 - {name: 'On the approximability of random-hypergraph MAX-3-XORSAT problems with quantum algorithms. E Kapit, **B Barton**, S Feeney, G Grattan, P Patnaik, J Sagal, LD Carr, V Oganesyan', url: 'https://arxiv.org/abs/2312.06104'}
 - {name: 'Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model. G Grattan, **B Barton**, S Feeney, G Mossi, P Patnaik, J Sagal, LD Carr, V Oganesyan, E Kapit', url: 'https://arxiv.org/abs/2311.17814'}

@@ -3,8 +3,9 @@ layout: home
 title: "Home"
 ---
 
-Welcome to my website! I'm Brandon, a master's student in computational and applied mathematics at the Colorado School of Mines. My advisor is [Prof. Lincoln Carr](https://people.mines.edu/lcarr/). 
+Hello :) I am Brandon, a doctorate student in physics. I work in [Juan Carrasquilla's](https://www.phys.ethz.ch/the-department/people/person-detail.MzM2NzEw.TGlzdC81MTUsMTE3MjU5OTI5OQ==.html) research group in the Insititute for Theoretical Physics at ETH Zürich. Previously, I completed my mater's thesis work with [Lincoln Carr](https://people.mines.edu/lcarr/) at the Colorado School of Mines.
 
-I spend most of my time thinking about quantum computing, hard optimization problems, and computational quantum physics. When I am not doing physics, I enjoy riding my bike and praticing jiu-jitsu. Please find some of my recent works below, and please reach out if you have any questions.
+My work is focused on computational methods for quantum physics. In particular, I enjoy developing new classical and quantum algorithms for various problems in physics and other domains.
 
-This summer, I am a graduate intern at the Flatiron Institute Center for Computational Quantum Physics (CCQ). In fall 2024, I will start my PhD in Physics at ETH Zürich with [Prof. Juan Carrasquilla](https://www.phys.ethz.ch/the-department/people/person-detail.MzM2NzEw.TGlzdC81MTUsMTE3MjU5OTI5OQ==.html).
+Thanks for visiting my website!
+
